@@ -20,3 +20,8 @@ The data is first cleaned through:
    
 ## How to use this 
 Should you choose to use this, you can download the ipynb, feed your own dataset and use it to gain insights.
+
+#DISCLAIMER
+
+THE FILES ARE IN IPYNB FORMAT
+YOU WILL NEED TO USE NBCONVERT TO VIEW THEM
